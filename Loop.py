@@ -14,9 +14,9 @@ print('It\'s about time!')  """
     for j in range(1, 3):
         print('\t', 'j:' , j) 
 
-inp = input("Type a message for Adiii  = ")
-while inp!= 'I love You Adiii':
-    inp = input('Please say I love You Adiii : ') """
+inp = input("Type a message for Shahid  = ")
+while inp!= 'I love You Shahid':
+    inp = input('Please say I love You Shahid : ') """
 
 """my_list= []
 i = 0
